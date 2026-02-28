@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=radhiant&label=Profile%20views&color=0e75b6&style=flat" alt="radhiant" />
 
 # Halo, Saya Radhian Sobarna 👋
-### Fullstack Developer
+### Software Engineer
 
 Saya fokus pada pengembangan solusi digital yang efisien, mulai dari **landing page** yang responsif hingga **dashboard monitoring** kompleks untuk kebutuhan infrastruktur dan manajemen bisnis.
 
