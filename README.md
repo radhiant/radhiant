@@ -7,30 +7,69 @@ Saya fokus pada pengembangan solusi digital yang efisien, mulai dari **landing p
 
 ## 🛠️ Project Showcase
 
-Berikut adalah beberapa portofolio proyek saya, baik yang bersifat open-source maupun proyek internal/private.
+Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari sistem monitoring infrastruktur hingga aplikasi web publik.
 
-| Project Preview | Description | Status |
-| :--- | :--- | :--- |
-| <img src="URL_SCREENSHOT_1" width="300" alt="Speedmax Dashboard"/> | **Speedmax Networks Dashboard**<br>Sistem manajemen ISP terintegrasi dengan fitur customer billing dan network monitoring. | 🔒 **Private** |
-| <img src="URL_SCREENSHOT_2" width="300" alt="MSS Project"/> | **Managed Site Service (MSS)**<br>Monitoring infrastruktur BTS, VSAT, dan Power secara real-time. | 🔒 **Private** |
-| <img src="URL_SCREENSHOT_3" width="300" alt="Radhcode Project"/> | **Radhcode Admin Panel**<br>Dashboard administrasi untuk pengelolaan layanan cloud dan routing Traefik. | 🔒 **Private** |
-| <img src="URL_SCREENSHOT_4" width="300" alt="Face Attendance"/> | **Face Recognition Attendance**<br>Sistem absensi berbasis wajah menggunakan FastAPI dan InsightFace. | 🔓 **Public** |
-| <img src="URL_SCREENSHOT_5" width="300" alt="Remote SSH"/> | **Web-based SSH Terminal**<br>Akses terminal server langsung melalui browser menggunakan Next.js dan Node.js. | 🔓 **Public** |
+### 1. Zabdash Monitoring
+*Sistem monitoring terpusat untuk memantau performa perangkat jaringan VSAT secara real-time.*
 
----
+| Main Dashboard View | Detail Metrics & Logs |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/zabdash-dashboard.png" width="600" alt="Zabdash Main Dashboard"/> | <img src="https://cdn.speedmax.id/images/zabdash-host.png" width="600" alt="Zabdash Detail Metrics"/> |
+| Detail Host | Detail Grapsh |
+| <img src="https://cdn.speedmax.id/images/zabdash-detail-host.png" width="600" alt="Zabdash Detail Host"/> | <img src="https://cdn.speedmax.id/images/zabdash-detail-graph.png" width="600" alt="Zabdash Detail Graph"/> |
 
-## 🔧 Tech Stack & Tools
-
-- **Frontend:** Next.js, Tailwind CSS, TanStack Query.
-- **Backend:** Node.js, Laravel.
-- **Monitoring:** Zabbix, Grafana Loki, SNMP.
-- **Infra:** Docker, Traefik, Linux SysAdmin.
+> **Tech Stack:** Next.js, Tailwind CSS, Zabbix 7.4, Zabbix API.
+> **Status:** 🔒 **Private Project**
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhiant&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhiant&layout=compact&theme=radical)
+### 2. Helpit IT Helpdesk System
+*Platform manajemen layanan IT internal yang mengintegrasikan pelaporan kendala pegawai, inventarisasi perangkat, hingga pemantauan infrastruktur jaringan kantor.*
+
+| Main Dashboard Admin | List Ticket View |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/helpit-dashboard.png" width="600" alt="Helpit Dashboard Admin"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket.png" width="600" alt="Helpit Ticket List"/> |
+| Main Dashboard User | Ticket Form |
+| <img src="https://cdn.speedmax.id/images/helpit-dashboard-user.png" width="600" alt="Helpit Dashboard User"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket-form.png" width="600" alt="Helpit Ticket Form"/> |
+
+> **Tech Stack:** Laravel, Next.js, MySQL, PM2.
+> **Status:** 🔒 **Private Project**
+
+---
+
+### 3. Whaweb Whastappweb API
+*Solusi integrasi komunikasi otomatis yang menghubungkan sistem internal kantor dengan platform WhatsApp untuk pengiriman notifikasi, alert sistem, dan layanan informasi pegawai secara real-time.*
+
+| Dashboard View | Device List |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/whaweb-dashboard.png" width="600" alt="Dashboard Whaweb"/> | <img src="https://cdn.speedmax.id/images/whaweb-device.png" width="600" alt="Device List"/> |
+| Message History | Api Documentation |
+| <img src="https://cdn.speedmax.id/images/whaweb-message.png" width="600" alt="Message History"/> | <img src="https://cdn.speedmax.id/images/whaweb-api.png" width="600" alt="Api Documentation"/> |
+
+> **Tech Stack:** Next.js, Framer Motion, Tailwind CSS, Node JS, Express JS, Websocket.
+> **Status:** 🔓 **Private Project**
+
+---
+
+### 4. Speedmax Networks Landing Page
+*Platform digital interaktif untuk aktivasi layanan internet yang menyederhanakan proses pengecekan jangkauan, pemilihan paket broadband, hingga pendaftaran pelanggan secara real-time.*
+
+| Landing Page | Register Page |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/speedmax-landing.png" width="600" alt="Speedmax Landing"/> | <img src="https://cdn.speedmax.id/images/speedmax-daftar.png" width="600" alt="Speedmax Register"/> |
+| Contact Page |
+| <img src="https://cdn.speedmax.id/images/speedmax-contact.png" width="600" alt="Speedmax Contact"/> |
+
+> **Tech Stack:** Next JS, Laravel, Whatsapp Web Notifications.
+> **Status:** 🔓 **Private Project**
+
+---
+
+## 🔧 Core Competencies
+
+- **Monitoring:** Dashboard kustom menggunakan Zabbix API & Grafana.
+- **Web Development:** Expert di Next.js, Tailwind CSS, dan Node.js.
+- **Infrastructure:** Management Traefik, Docker, dan Linux Sysadmin.
 
 ---
 
@@ -38,3 +77,8 @@ Berikut adalah beberapa portofolio proyek saya, baik yang bersifat open-source m
 - LinkedIn: [www.linkedin.com/in/radhian-sobarna-a150192a8]
 - Website: [www.radhiansobarna.com]
 - Email: [radhiantsobarna@gmail.com]
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radhiant&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
