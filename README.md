@@ -14,7 +14,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 ### 1. Zabdash Monitoring
 *Sistem monitoring terpusat untuk memantau performa perangkat jaringan VSAT secara real-time.*
 
-| Main Dashboard View | Detail Metrics & Logs |
+| Dashboard View | Detail Host |
 | :--- | :--- |
 | <img src="https://cdn.speedmax.id/images/zabdash-dashboard.png" width="600" alt="Zabdash Main Dashboard"/> | <img src="https://cdn.speedmax.id/images/zabdash-host.png" width="600" alt="Zabdash Detail Metrics"/> |
 | Detail Host | Detail Grapsh |
@@ -28,7 +28,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 ### 2. Helpit IT Helpdesk System
 *Platform manajemen layanan IT internal yang mengintegrasikan pelaporan kendala pegawai, inventarisasi perangkat, hingga pemantauan infrastruktur jaringan kantor.*
 
-| Main Dashboard Admin | List Ticket View |
+| Dashboard Admin | List Ticket |
 | :--- | :--- |
 | <img src="https://cdn.speedmax.id/images/helpit-dashboard.png" width="600" alt="Helpit Dashboard Admin"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket.png" width="600" alt="Helpit Ticket List"/> |
 | Main Dashboard User | Ticket Form |
