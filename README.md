@@ -3,7 +3,7 @@
 # Halo, Saya Radhian Sobarna 👋
 ### Software Engineer
 
-Saya fokus pada pengembangan solusi digital yang efisien, mulai dari **landing page** yang responsif hingga **dashboard monitoring** kompleks untuk kebutuhan infrastruktur dan manajemen bisnis.
+Spesialis sistem berbasis data yang berfokus pada perancangan dashboard monitoring infrastruktur kompleks, solusi otomasi manajemen bisnis, serta pengembangan aplikasi web yang performan dan skalabel.
 
 ---
 
@@ -31,7 +31,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Dashboard Admin | List Ticket |
 | :--- | :--- |
 | <img src="https://cdn.speedmax.id/images/helpit-dashboard.png" width="600" alt="Helpit Dashboard Admin"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket.png" width="600" alt="Helpit Ticket List"/> |
-| Main Dashboard User | Ticket Form |
+| Dashboard User | Ticket Form |
 | <img src="https://cdn.speedmax.id/images/helpit-dashboard-user.png" width="600" alt="Helpit Dashboard User"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket-form.png" width="600" alt="Helpit Ticket Form"/> |
 
 > **Tech Stack:** Laravel, Next.js, MySQL, PM2.
