@@ -81,10 +81,24 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 
 ---
 
+### 6. Inventra Stok Management System
+*Sistem inventarisasi cerdas yang mengotomasi pelacakan stok aset kantor dan perangkat infrastruktur secara real-time untuk menjamin ketersediaan logistik secara akurat.*
+
+| Dashboard Page | Report Page |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/inventra-dashboard.png" width="600" alt="Inventra Dashboard"/> | <img src="https://cdn.speedmax.id/images/inventra-laporan.png" width="600" alt="Inventra Report"/> |
+| Tracking Page | Print Page |
+| <img src="https://cdn.speedmax.id/images/inventra-tracking-sn.png" width="600" alt="Inventra Tracking SN"/> | <img src="https://cdn.speedmax.id/images/inventra-print.png" width="600" alt="Inventra Print"/> |
+
+> **Tech Stack:** Next JS, Tailwind CSS, Laravel.
+> **Status:** 🔓 **Private Project**
+
+---
+
 ## 🔧 Core Competencies
 
 - **Monitoring:** Dashboard kustom menggunakan Zabbix API & Grafana.
-- **Web Development:** Expert di Next.js, Tailwind CSS, dan Node.js.
+- **Web Development:** Expert di Next.js, Tailwind CSS, Laravel dan Node.js.
 - **Infrastructure:** Management Traefik, Docker, dan Linux Sysadmin.
 
 ---
