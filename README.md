@@ -7,7 +7,7 @@ Saya fokus pada pengembangan solusi digital yang efisien, mulai dari **landing p
 
 ## 🛠️ Project Showcase
 
-Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari sistem monitoring infrastruktur hingga aplikasi web publik.
+Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari sistem monitoring infrastruktur hingga aplikasi web admin.
 
 ### 1. Zabdash Monitoring
 *Sistem monitoring terpusat untuk memantau performa perangkat jaringan VSAT secara real-time.*
@@ -23,7 +23,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 
 ---
 
-### 2. Helpit IT Helpdesk System
+### 2. HelpIT IT Helpdesk System
 *Platform manajemen layanan IT internal yang mengintegrasikan pelaporan kendala pegawai, inventarisasi perangkat, hingga pemantauan infrastruktur jaringan kantor.*
 
 | Main Dashboard Admin | List Ticket View |
@@ -61,6 +61,20 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | <img src="https://cdn.speedmax.id/images/speedmax-contact.png" width="600" alt="Speedmax Contact"/> |
 
 > **Tech Stack:** Next JS, Laravel, Whatsapp Web Notifications.
+> **Status:** 🔓 **Private Project**
+
+---
+
+### 5. Absensi QR Code
+*Sistem pencatatan kehadiran modern yang memanfaatkan pemindaian kode unik melalui perangkat seluler untuk memastikan validasi data absensi pegawai secara instan, akurat, dan nirkontak.*
+
+| Main Page | Dashboard Page |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/absensi-main.png" width="600" alt="Absensi Main"/> | <img src="https://cdn.speedmax.id/images/absensi-dashboard.png" width="600" alt="Absensi Dashbpard"/> |
+| Report Page |
+| <img src="https://cdn.speedmax.id/images/absensi-laporan.png" width="600" alt="Absensi Report"/> |
+
+> **Tech Stack:** Next JS, Tailwind CSS, Laravel, Whatsapp Web Notifications.
 > **Status:** 🔓 **Private Project**
 
 ---
