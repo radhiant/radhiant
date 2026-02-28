@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=radhiant&label=Profile%20views&color=0e75b6&style=flat" alt="radhiant" />
+
 # Halo, Saya Radhian Sobarna 👋
 ### Fullstack Developer
 
@@ -23,7 +25,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 
 ---
 
-### 2. HelpIT IT Helpdesk System
+### 2. Helpit IT Helpdesk System
 *Platform manajemen layanan IT internal yang mengintegrasikan pelaporan kendala pegawai, inventarisasi perangkat, hingga pemantauan infrastruktur jaringan kantor.*
 
 | Main Dashboard Admin | List Ticket View |
@@ -93,6 +95,5 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 - Email: [radhiantsobarna@gmail.com]
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhiant&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radhiant&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
