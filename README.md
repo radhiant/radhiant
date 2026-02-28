@@ -20,7 +20,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Detail Host | Detail Grapsh |
 | <img src="https://cdn.speedmax.id/images/zabdash-detail-host.png" width="600" alt="Zabdash Detail Host"/> | <img src="https://cdn.speedmax.id/images/zabdash-detail-graph.png" width="600" alt="Zabdash Detail Graph"/> |
 
-> **Tech Stack:** Next.js, Tailwind CSS, Zabbix 7.4, Zabbix API.
+> **Tech Stack:** Next.js, Tailwind CSS, Zabbix 7.4, Zabbix API, PostgreSQL.
 > **Status:** 🔒 **Private Project**
 
 ---
@@ -48,7 +48,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Message History | Api Documentation |
 | <img src="https://cdn.speedmax.id/images/whaweb-message.png" width="600" alt="Message History"/> | <img src="https://cdn.speedmax.id/images/whaweb-api.png" width="600" alt="Api Documentation"/> |
 
-> **Tech Stack:** Next.js, Framer Motion, Tailwind CSS, Node JS, Express JS, Websocket.
+> **Tech Stack:** Next.js, Framer Motion, Tailwind CSS, Node JS, Express JS, Websocket, MySQL.
 > **Status:** 🔓 **Private Project**
 
 ---
@@ -62,7 +62,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Contact Page |
 | <img src="https://cdn.speedmax.id/images/speedmax-contact.png" width="600" alt="Speedmax Contact"/> |
 
-> **Tech Stack:** Next JS, Laravel, Whatsapp Web Notifications.
+> **Tech Stack:** Next JS, Laravel, Whatsapp Web Notifications, MySQL.
 > **Status:** 🔓 **Private Project**
 
 ---
@@ -76,7 +76,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Report Page |
 | <img src="https://cdn.speedmax.id/images/absensi-laporan.png" width="600" alt="Absensi Report"/> |
 
-> **Tech Stack:** Next JS, Tailwind CSS, Laravel, Whatsapp Web Notifications.
+> **Tech Stack:** Next JS, Tailwind CSS, Laravel, Whatsapp Web Notifications, MySQL.
 > **Status:** 🔓 **Private Project**
 
 ---
@@ -90,7 +90,7 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Tracking Page | Print Page |
 | <img src="https://cdn.speedmax.id/images/inventra-tracking-sn.png" width="600" alt="Inventra Tracking SN"/> | <img src="https://cdn.speedmax.id/images/inventra-print.png" width="600" alt="Inventra Print"/> |
 
-> **Tech Stack:** Next JS, Tailwind CSS, Laravel.
+> **Tech Stack:** Next JS, Tailwind CSS, Laravel, MySQL.
 > **Status:** 🔓 **Private Project**
 
 ---
