@@ -17,8 +17,10 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Dashboard View | Detail Host |
 | :--- | :--- |
 | <img src="https://cdn.speedmax.id/images/zabdash-dashboard.png" width="600" alt="Zabdash Main Dashboard"/> | <img src="https://cdn.speedmax.id/images/zabdash-host.png" width="600" alt="Zabdash Detail Metrics"/> |
-| Detail Host | Detail Grapsh |
+| Detail Host | Detail Graph |
 | <img src="https://cdn.speedmax.id/images/zabdash-detail-host.png" width="600" alt="Zabdash Detail Host"/> | <img src="https://cdn.speedmax.id/images/zabdash-detail-graph.png" width="600" alt="Zabdash Detail Graph"/> |
+| Zabbix Dashboard | Zabbix Host |
+| <img src="https://cdn.speedmax.id/images/zabdash-zabbix-dashboard.png" width="600" alt="Zabdash Zabbix Dashboard"/> | <img src="https://cdn.speedmax.id/images/zabdash-zabbix-host.png" width="600" alt="Zabdash Zabbix Host"/> |
 
 > **Tech Stack:** Next.js, Tailwind CSS, Zabbix 7.4, Zabbix API, PostgreSQL.
 > **Status:** 🔒 **Private Project**
@@ -33,6 +35,8 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | <img src="https://cdn.speedmax.id/images/helpit-dashboard.png" width="600" alt="Helpit Dashboard Admin"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket.png" width="600" alt="Helpit Ticket List"/> |
 | Dashboard User | Ticket Form |
 | <img src="https://cdn.speedmax.id/images/helpit-dashboard-user.png" width="600" alt="Helpit Dashboard User"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket-form.png" width="600" alt="Helpit Ticket Form"/> |
+| Notif Email | Notif Whatsapp |
+| <img src="https://cdn.speedmax.id/images/helpit-email.png" width="600" alt="Helpit Email Notif"/> | <img src="https://cdn.speedmax.id/images/helpit-whaweb.png" width="600" alt="Helpit Whatsapp Notif"/> |
 
 > **Tech Stack:** Laravel, Next.js, MySQL, PM2.
 > **Status:** 🔒 **Private Project**
@@ -59,8 +63,8 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Landing Page | Register Page |
 | :--- | :--- |
 | <img src="https://cdn.speedmax.id/images/speedmax-landing.png" width="600" alt="Speedmax Landing"/> | <img src="https://cdn.speedmax.id/images/speedmax-daftar.png" width="600" alt="Speedmax Register"/> |
-| Contact Page |
-| <img src="https://cdn.speedmax.id/images/speedmax-contact.png" width="600" alt="Speedmax Contact"/> |
+| Contact Page | Notif Whatsapp |
+| <img src="https://cdn.speedmax.id/images/speedmax-contact.png" width="600" alt="Speedmax Contact"/> | <img src="https://cdn.speedmax.id/images/speedmax-whaweb.png" width="600" alt="Speedmax Notif"/> |
 
 > **Tech Stack:** Next JS, Laravel, Whatsapp Web Notifications, MySQL.
 > **Status:** 🔓 **Private Project**
@@ -73,8 +77,8 @@ Bagian ini menampilkan beberapa proyek utama yang telah saya bangun, mulai dari 
 | Main Page | Dashboard Page |
 | :--- | :--- |
 | <img src="https://cdn.speedmax.id/images/absensi-main.png" width="600" alt="Absensi Main"/> | <img src="https://cdn.speedmax.id/images/absensi-dashboard.png" width="600" alt="Absensi Dashbpard"/> |
-| Report Page |
-| <img src="https://cdn.speedmax.id/images/absensi-laporan.png" width="600" alt="Absensi Report"/> |
+| Report Page | Notif Whatsapp |
+| <img src="https://cdn.speedmax.id/images/absensi-laporan.png" width="600" alt="Absensi Report"/> | <img src="https://cdn.speedmax.id/images/absensi-whaweb.png" width="600" alt="Absensi Whaweb"/> |
 
 > **Tech Stack:** Next JS, Tailwind CSS, Laravel, Whatsapp Web Notifications, MySQL.
 > **Status:** 🔓 **Private Project**
