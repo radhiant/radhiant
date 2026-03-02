@@ -102,7 +102,7 @@ This section highlights key projects I have built, ranging from infrastructure m
 ---
 
 ### 7. Finlog - Finance Log Management
-*A comprehensive financial tracking system designed to streamline corporate expense logging, budget monitoring, and real-time financial reporting for improved fiscal transparency.*
+*A sophisticated financial accounting system designed to automate corporate bookkeeping, generating real-time Profit & Loss statements, Balance Sheets, and comprehensive multi-period trend analysis for annual and monthly financial reporting.*
 
 | Dashboard Page | Transaction List |
 | :--- | :--- |
