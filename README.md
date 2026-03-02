@@ -101,6 +101,20 @@ This section highlights key projects I have built, ranging from infrastructure m
 
 ---
 
+### 7. Finlog - Finance Log Management
+*A comprehensive financial tracking system designed to streamline corporate expense logging, budget monitoring, and real-time financial reporting for improved fiscal transparency.*
+
+| Dashboard Page | Transaction List |
+| :--- | :--- |
+| <img src="https://cdn.speedmax.id/images/finlog-dashboard.png" width="600" alt="Finlog Dashboard"/> | <img src="https://cdn.speedmax.id/images/finlog-transaksi.png" width="600" alt="Finlog Transaction"/> |
+| Report Trend | Print Neraca |
+| <img src="https://cdn.speedmax.id/images/finlog-trend.png" width="600" alt="Inventra Tracking SN"/> | <img src="https://cdn.speedmax.id/images/finlog-neraca.png" width="600" alt="Neraca Print"/> |
+
+> **Tech Stack:** Next.js, Tailwind CSS, Laravel, MySQL.
+> **Status:** 🔒 **Private Project**
+
+---
+
 ## 🔧 Core Competencies
 
 - **Monitoring:** Custom dashboards using Zabbix API & Grafana.
