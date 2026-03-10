@@ -125,7 +125,7 @@ This section highlights key projects I have built, ranging from infrastructure m
 
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/radhian-sobarna-a150192a8](https://www.linkedin.com/in/radhian-sobarna-a150192a8)
-- **Website:** [www.radhiansobarna.com](http://www.radhiansobarna.com)
+- **Website:** [radhian.my.id](https://www.radhian.my.id)
 - **Email:** [radhiantsobarna@gmail.com](mailto:radhiantsobarna@gmail.com)
 
 ---
