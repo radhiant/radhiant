@@ -36,7 +36,6 @@ Seventeen of them are running in production, from the database and the API to th
   </tr>
 </table>
 
-<sub>Scroll-driven and built point to point: one gesture moves to exactly one scene. Next.js · GSAP · Lenis · Tailwind CSS, deployed on Cloudflare Pages.</sub>
 
 ---
 
