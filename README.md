@@ -1,133 +1,51 @@
 <img src="https://komarev.com/ghpvc/?username=radhiant&label=Profile%20views&color=0e75b6&style=flat" alt="radhiant" />
 
-# Hi, I'm Radhian Sobarna 👋
-## Software Engineer
+<a href="https://radhian.my.id">
+  <img src="assets/site-hero.jpg" alt="radhian.my.id — Radhian Sobarna, full-stack and DevOps engineer" width="100%" />
+</a>
 
-Data-driven Software Engineer specializing in designing complex infrastructure monitoring dashboards, business management automation solutions, and developing high-performance, scalable web applications.
+## Radhian Sobarna — Full-stack & DevOps engineer
 
----
+I build the quiet systems an ISP runs on: monitoring, inventory, finance, sign-on and fiber network maps.
+Seventeen of them are running in production, from the database and the API to the dashboard on the NOC wall and the servers underneath.
 
-## 🛠️ Project Showcase
-
-This section highlights key projects I have built, ranging from infrastructure monitoring systems to specialized administrative web applications.
-
-### 1. Zabdash Monitoring
-*A centralized monitoring system designed to track the performance of VSAT network devices in real-time.*
-
-| Dashboard View | Host List |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/zabdash-dashboard.png" width="600" alt="Zabdash Main Dashboard"/> | <img src="https://cdn.speedmax.id/images/zabdash-host.png" width="600" alt="Zabdash Detail Metrics"/> |
-| Host Details | Graph Details |
-| <img src="https://cdn.speedmax.id/images/zabdash-detail-host.png" width="600" alt="Zabdash Detail Host"/> | <img src="https://cdn.speedmax.id/images/zabdash-detail-graph.png" width="600" alt="Zabdash Detail Graph"/> |
-| Zabbix Dashboard | Zabbix Host |
-| <img src="https://cdn.speedmax.id/images/zabdash-zabbix-dashboard.png" width="600" alt="Zabdash Zabbix Dashboard"/> | <img src="https://cdn.speedmax.id/images/zabdash-zabbix-host.png" width="600" alt="Zabdash Zabbix Host"/> |
-
-> **Tech Stack:** Next.js, Tailwind CSS, Zabbix 7.4, Zabbix API, PostgreSQL.
-> **Status:** 🔒 **Private Project**
+<a href="https://radhian.my.id"><img src="https://img.shields.io/badge/Visit_the_portfolio-radhian.my.id-e8380f?style=for-the-badge&labelColor=0b0b0c" alt="Visit radhian.my.id" /></a>
+<a href="https://radhian.my.id/id/"><img src="https://img.shields.io/badge/Bahasa_Indonesia-%2Fid-0b0b0c?style=for-the-badge" alt="Versi Bahasa Indonesia" /></a>
 
 ---
 
-### 2. Helpit - IT Helpdesk System
-*An internal IT service management platform integrating employee issue reporting, hardware inventory, and office network infrastructure monitoring.*
+### A look inside
 
-| Admin Dashboard | Ticket List |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/helpit-dashboard.png" width="600" alt="Helpit Dashboard Admin"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket.png" width="600" alt="Helpit Ticket List"/> |
-| User Dashboard | Ticket Form |
-| <img src="https://cdn.speedmax.id/images/helpit-dashboard-user.png" width="600" alt="Helpit Dashboard User"/> | <img src="https://cdn.speedmax.id/images/helpit-ticket-form.png" width="600" alt="Helpit Ticket Form"/> |
-| Email Notif | WhatsApp Notif |
-| <img src="https://cdn.speedmax.id/images/helpit-email.png" width="600" alt="Helpit Email Notif"/> | <img src="https://cdn.speedmax.id/images/helpit-whaweb.png" width="600" alt="Helpit Whatsapp Notif"/> |
+<table>
+  <tr>
+    <td width="50%"><a href="https://radhian.my.id"><img src="assets/site-eye.jpg" alt="Hero: I build the systems an ISP runs on" /></a></td>
+    <td width="50%"><a href="https://radhian.my.id/#stack"><img src="assets/site-stack.jpg" alt="The layer underneath: the infrastructure stack" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://radhian.my.id/#about"><img src="assets/site-about.jpg" alt="About: off the server" /></a></td>
+    <td width="50%"><a href="https://radhian.my.id/#contact"><img src="assets/site-contact.jpg" alt="Contact: let's build something that runs quietly" /></a></td>
+  </tr>
+</table>
 
-> **Tech Stack:** Laravel, Next.js, MySQL, PM2.
-> **Status:** 🔒 **Private Project**
+<table>
+  <tr>
+    <td width="25%"><a href="https://radhian.my.id"><img src="assets/phone-hero.jpg" alt="Phone: hero" /></a></td>
+    <td width="25%"><a href="https://radhian.my.id"><img src="assets/phone-eye.jpg" alt="Phone: eyeline" /></a></td>
+    <td width="25%"><a href="https://radhian.my.id/#stack"><img src="assets/phone-stack.jpg" alt="Phone: stack" /></a></td>
+    <td width="25%"><a href="https://radhian.my.id/#contact"><img src="assets/phone-contact.jpg" alt="Phone: contact" /></a></td>
+  </tr>
+</table>
 
----
-
-### 3. Whaweb - WhatsApp Web API
-*An integrated communication solution connecting internal office systems with WhatsApp for automated notifications, system alerts, and real-time employee information services.*
-
-| Dashboard View | Device List |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/whaweb-dashboard.png" width="600" alt="Dashboard Whaweb"/> | <img src="https://cdn.speedmax.id/images/whaweb-device.png" width="600" alt="Device List"/> |
-| Message History | API Document |
-| <img src="https://cdn.speedmax.id/images/whaweb-message.png" width="600" alt="Message History"/> | <img src="https://cdn.speedmax.id/images/whaweb-api.png" width="600" alt="Api Documentation"/> |
-| Contact List | Real-time Logs |
-| <img src="https://cdn.speedmax.id/images/whaweb-contact.png" width="600" alt="Contact Whaweb"/> | <img src="https://cdn.speedmax.id/images/whaweb-logs.png" width="600" alt="Logs Whaweb"/> |
-
-> **Tech Stack:** Next.js, Framer Motion, Tailwind CSS, Node.js, Express.js, WebSocket, MySQL.
-> **Status:** 🔒 **Private Project**
+<sub>Scroll-driven and built point to point: one gesture moves to exactly one scene. Next.js · GSAP · Lenis · Tailwind CSS, deployed on Cloudflare Pages.</sub>
 
 ---
 
-### 4. Speedmax Networks Landing Page
-*An interactive digital platform for internet service activation, simplifying coverage checks, broadband package selection, and real-time customer registration.*
+### What I work with
 
-| Landing Page | Registration Page |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/speedmax-landing.png" width="600" alt="Speedmax Landing"/> | <img src="https://cdn.speedmax.id/images/speedmax-daftar.png" width="600" alt="Speedmax Register"/> |
-| Contact Page | WhatsApp Notif |
-| <img src="https://cdn.speedmax.id/images/speedmax-contact.png" width="600" alt="Speedmax Contact"/> | <img src="https://cdn.speedmax.id/images/speedmax-whaweb.png" width="600" alt="Speedmax Notif"/> |
+**Build:** Next.js · React · NestJS · Laravel · Go · Node.js · Tailwind CSS<br />
+**Data:** MySQL · PostgreSQL · Prometheus · Redis<br />
+**Run:** Docker · Traefik · Linux · Zabbix · LibreNMS · n8n
 
-> **Tech Stack:** Next.js, Laravel, WhatsApp Web Notifications, MySQL.
-> **Status:** 🔒 **Private Project**
+### Let's connect
 
----
-
-### 5. QR Code Attendance System
-*A modern attendance tracking system utilizing unique mobile QR scans to ensure instant, accurate, and contactless employee attendance validation.*
-
-| Main Mobile View | Admin Dashboard |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/absensi-main.png" width="600" alt="Absensi Main"/> | <img src="https://cdn.speedmax.id/images/absensi-dashboard.png" width="600" alt="Absensi Dashbpard"/> |
-| Attendance Reports | WhatsApp Alerts |
-| <img src="https://cdn.speedmax.id/images/absensi-laporan.png" width="600" alt="Absensi Report"/> | <img src="https://cdn.speedmax.id/images/absensi-whaweb.png" width="600" alt="Absensi Whaweb"/> |
-
-> **Tech Stack:** Next.js, Tailwind CSS, Laravel, WhatsApp Web Notifications, MySQL.
-> **Status:** 🔒 **Private Project**
-
----
-
-### 6. Inventra - Stock Management System
-*An intelligent inventory system that automates real-time tracking of office assets and infrastructure devices to ensure accurate logistical availability.*
-
-| Dashboard Page | Report Stock |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/inventra-dashboard.png" width="600" alt="Inventra Dashboard"/> | <img src="https://cdn.speedmax.id/images/inventra-laporan.png" width="600" alt="Inventra Report"/> |
-| SN Tracking Page | Print History |
-| <img src="https://cdn.speedmax.id/images/inventra-tracking-sn.png" width="600" alt="Inventra Tracking SN"/> | <img src="https://cdn.speedmax.id/images/inventra-print.png" width="600" alt="Inventra Print"/> |
-
-> **Tech Stack:** Next.js, Tailwind CSS, Laravel, MySQL.
-> **Status:** 🔒 **Private Project**
-
----
-
-### 7. Finlog - Finance Log Management
-*A sophisticated financial accounting system designed to automate corporate bookkeeping, generating real-time Profit & Loss statements, Balance Sheets, and comprehensive multi-period trend analysis for annual and monthly financial reporting.*
-
-| Dashboard Page | Transaction List |
-| :--- | :--- |
-| <img src="https://cdn.speedmax.id/images/finlog-dashboard.png" width="600" alt="Finlog Dashboard"/> | <img src="https://cdn.speedmax.id/images/finlog-transaksi.png" width="600" alt="Finlog Transaction"/> |
-| Report Trend | Print Neraca |
-| <img src="https://cdn.speedmax.id/images/finlog-trend.png" width="600" alt="Inventra Tracking SN"/> | <img src="https://cdn.speedmax.id/images/finlog-neraca.png" width="600" alt="Neraca Print"/> |
-
-> **Tech Stack:** Next.js, Tailwind CSS, Laravel, MySQL.
-> **Status:** 🔒 **Private Project**
-
----
-
-## 🔧 Core Competencies
-
-- **Monitoring:** Custom dashboards using Zabbix API & Grafana.
-- **Web Development:** Expert in Next.js, Tailwind CSS, Laravel, and Node.js.
-- **Infrastructure:** Traefik Management, Docker, and Linux System Administration.
-
----
-
-## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/radhian-sobarna-a150192a8](https://www.linkedin.com/in/radhian-sobarna-a150192a8)
-- **Website:** [radhian.my.id](https://www.radhian.my.id)
-- **Email:** [radhiantsobarna@gmail.com](mailto:radhiantsobarna@gmail.com)
-
----
-
-[![Radhian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radhiant&theme=github-compact)](https://github.com/radhiant)
+[radhian.my.id](https://radhian.my.id) · [LinkedIn](https://www.linkedin.com/in/radhian-sobarna-a150192a8) · [radhiantsobarna@gmail.com](mailto:radhiantsobarna@gmail.com)
